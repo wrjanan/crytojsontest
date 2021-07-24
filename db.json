@@ -3,7 +3,7 @@
     {
       "id": 0,
       "description": "My NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "external_url": "https://steambadgefinder.com",
       "image": "https://gateway.pinata.cloud/ipfs/QmTBV6wN4LW9CAFbaHQYSM2LzU1aLMwaiaBpQgoDCzqa4x/10.jpg",
       "imageIFPS": "Qmb2Ks9CZcaL5rkaN9QCo7YnKeFzDu7MFbemGdKyFg5AEH",
       "name": "My NFT 0",
@@ -33,7 +33,7 @@
     {
       "id": 1,
       "description": "My NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "external_url": "https://steambadgefinder.com",
       "image": "https://gateway.pinata.cloud/ipfs/QmTBV6wN4LW9CAFbaHQYSM2LzU1aLMwaiaBpQgoDCzqa4x/11.jpg",
       "name": "My NFT 1",
       "attributes": [
@@ -62,7 +62,7 @@
     {
       "id": 2,
       "description": "My NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "external_url": "https://steambadgefinder.com",
       "image": "https://gateway.pinata.cloud/ipfs/QmTBV6wN4LW9CAFbaHQYSM2LzU1aLMwaiaBpQgoDCzqa4x/13.jpg",
       "name": "My NFT 2",
       "attributes": [

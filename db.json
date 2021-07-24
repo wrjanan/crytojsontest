@@ -4,22 +4,89 @@
       "id": 0,
       "description": "My NFT",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 0"
+      "image": "https://gateway.pinata.cloud/ipfs/QmTBV6wN4LW9CAFbaHQYSM2LzU1aLMwaiaBpQgoDCzqa4x/10.jpg",
+      "imageIFPS": "Qmb2Ks9CZcaL5rkaN9QCo7YnKeFzDu7MFbemGdKyFg5AEH",
+      "name": "My NFT 0",
+      "attributes": [
+        { 
+          "trait_type": "Background", 
+          "value": "Mint"
+        },
+        { 
+          "trait_type": "Banana Base", 
+          "value": "Yellow"
+        },
+        { 
+          "trait_type": "Mouth", 
+          "value": "Toothless"
+        },
+        { 
+          "trait_type": "Eyes", 
+          "value": "Leonardo"
+        },
+        { 
+          "trait_type": "Head Gear", 
+          "value": "Carrot Top"
+        }
+      ]
     },
     {
       "id": 1,
       "description": "My NFT",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 1"
+      "image": "https://gateway.pinata.cloud/ipfs/QmTBV6wN4LW9CAFbaHQYSM2LzU1aLMwaiaBpQgoDCzqa4x/11.jpg",
+      "name": "My NFT 1",
+      "attributes": [
+        { 
+          "trait_type": "Background", 
+          "value": "Purple Haze"
+        },
+        { 
+          "trait_type": "Banana Base", 
+          "value": "Yellow"
+        },
+        { 
+          "trait_type": "Mouth", 
+          "value": "Smirk"
+        },
+        { 
+          "trait_type": "Eyes", 
+          "value": "Leonardo"
+        },
+        { 
+          "trait_type": "Head Gear", 
+          "value": "Carrot Top"
+        }
+      ]
     },
     {
       "id": 2,
       "description": "My NFT",
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 2"
+      "image": "https://gateway.pinata.cloud/ipfs/QmTBV6wN4LW9CAFbaHQYSM2LzU1aLMwaiaBpQgoDCzqa4x/13.jpg",
+      "name": "My NFT 2",
+      "attributes": [
+        { 
+          "trait_type": "Background", 
+          "value": "Tag it"
+        },
+        { 
+          "trait_type": "Banana Base", 
+          "value": "Green"
+        },
+        { 
+          "trait_type": "Mouth", 
+          "value": "Grrrr"
+        },
+        { 
+          "trait_type": "Eyes", 
+          "value": "Donatello"
+        },
+        { 
+          "trait_type": "Head Gear", 
+          "value": "Carrot Top"
+        }
+      ]
     }
   ]
 }
